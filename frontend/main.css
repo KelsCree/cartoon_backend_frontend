@@ -1,0 +1,17 @@
+#cartoons-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+img {
+  width: 100%;
+
+}
+
+.card {
+  background-color: salmon;
+  width: 200px;
+}
